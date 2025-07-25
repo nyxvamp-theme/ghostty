@@ -1,0 +1,29 @@
+# nyxvamp - obsidian variant
+# author: zoedsoupe <zoey.spessanha@zeetech.io>
+# A very dark theme with near-black background and muted colors
+
+# Base colors
+background = #000A0F
+foreground = #C0C0CE
+cursor-color = #F28FAD
+cursor-text = #0E0E10
+selection-background = #2E2E30
+selection-foreground = #C0C0CE
+
+# Terminal palette (16 colors)
+palette = 0=#0E0E10    # black (very dark)
+palette = 1=#D78284    # red (muted red)
+palette = 2=#8FBF8F    # green (muted green)
+palette = 3=#D5B880    # yellow (muted yellow)
+palette = 4=#7A9CCC    # blue (muted blue)
+palette = 5=#F28FAD    # magenta (pink cursor/constants)
+palette = 6=#7BB5A8    # cyan (muted cyan)
+palette = 7=#C0C0CE    # white (foreground)
+palette = 8=#5E5A76    # bright black (dark gray)
+palette = 9=#D78284    # bright red
+palette = 10=#86BA75   # bright green (diff add)
+palette = 11=#D8A080   # bright yellow (muted peach numbers)
+palette = 12=#7FAFD7   # bright blue (muted blue functions)
+palette = 13=#F28FAD   # bright magenta
+palette = 14=#7BB5A8   # bright cyan
+palette = 15=#C0C0CE   # bright white
