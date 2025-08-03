@@ -11,19 +11,35 @@ selection-background = #494D64
 selection-foreground = #D9E0EE
 
 # Terminal palette (16 colors)
-palette = 0=#1E1E2E    # black (background)
-palette = 1=#E78284    # red (soft red)
-palette = 2=#ABE9B3    # green (green strings)
-palette = 3=#E5C890    # yellow (soft yellow)
-palette = 4=#96CDFB    # blue (blue functions)
-palette = 5=#F5C2E7    # magenta (pink keywords)
-palette = 6=#8BD5CA    # cyan (cyan hints)
-palette = 7=#D9E0EE    # white (foreground)
-palette = 8=#6E6A86    # bright black (comment gray)
-palette = 9=#E78284    # bright red
-palette = 10=#ABE9B3   # bright green
-palette = 11=#F8BD96   # bright yellow (peach numbers)
-palette = 12=#96CDFB   # bright blue
-palette = 13=#F28FAD   # bright magenta (pink constants)
-palette = 14=#8BD5CA   # bright cyan
-palette = 15=#D9E0EE   # bright white
+# black (background)
+palette = 0=#1E1E2E
+# red (soft red)
+palette = 1=#E78284
+# green (green strings)
+palette = 2=#ABE9B3
+# yellow (soft yellow)
+palette = 3=#E5C890
+# blue (blue functions)
+palette = 4=#96CDFB
+# magenta (pink keywords)
+palette = 5=#F5C2E7
+# cyan (cyan hints)
+palette = 6=#8BD5CA
+# white (foreground)
+palette = 7=#D9E0EE
+# bright black (comment gray)
+palette = 8=#6E6A86
+# bright red
+palette = 9=#E78284
+# bright green
+palette = 10=#ABE9B3
+# bright yellow (peach numbers)
+palette = 11=#F8BD96
+# bright blue
+palette = 12=#96CDFB
+# bright magenta (pink constants)
+palette = 13=#F28FAD
+# bright cyan
+palette = 14=#8BD5CA
+# bright white
+palette = 15=#D9E0EE
