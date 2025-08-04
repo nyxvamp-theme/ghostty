@@ -13,13 +13,13 @@ selection-foreground = #000000
 # Terminal palette (16 colors) - darkened for transparency
 # black (even darker)
 palette = 0=#1A1A24
-# red (much darker red)
-palette = 1=#991B1B
-# green (much darker green)
-palette = 2=#14532D
-# yellow (much darker yellow)
-palette = 3=#854D0E
-# blue (much darker blue)
+# red (extremely dark red)
+palette = 1=#7F1D1D
+# green (extremely dark green)
+palette = 2=#0F3F23
+# yellow (extremely dark yellow)
+palette = 3=#713F12
+# blue (extremely dark blue)
 palette = 4=#1E3A8A
 # magenta (much darker pink)
 palette = 5=#831843
@@ -29,14 +29,14 @@ palette = 6=#155E75
 palette = 7=#374151
 # bright black (darker gray)
 palette = 8=#1F2937
-# bright red (darker)
-palette = 9=#B91C1C
-# bright green (darker)
-palette = 10=#15803D
-# bright yellow (darker)
-palette = 11=#A16207
-# bright blue (darker)
-palette = 12=#1D4ED8
+# bright red (much darker)
+palette = 9=#991B1B
+# bright green (much darker)
+palette = 10=#166534
+# bright yellow (much darker)
+palette = 11=#92400E
+# bright blue (much darker)
+palette = 12=#1E3A8A
 # bright magenta (darker)
 palette = 13=#A21CAF
 # bright cyan (darker)
