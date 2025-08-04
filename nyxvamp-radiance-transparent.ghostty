@@ -11,35 +11,35 @@ selection-background = #D1C4E9
 selection-foreground = #000000
 
 # Terminal palette (16 colors) - darkened for transparency
-# black (even darker)
-palette = 0=#1A1A24
-# red (extremely dark red)
-palette = 1=#7F1D1D
-# green (extremely dark green)
-palette = 2=#0F3F23
-# yellow (extremely dark yellow)
-palette = 3=#713F12
-# blue (extremely dark blue)
-palette = 4=#1E3A8A
-# magenta (much darker pink)
-palette = 5=#831843
-# cyan (much darker cyan)
-palette = 6=#155E75
-# white (darker gray)
-palette = 7=#374151
-# bright black (darker gray)
-palette = 8=#1F2937
-# bright red (much darker)
-palette = 9=#991B1B
-# bright green (much darker)
-palette = 10=#166534
-# bright yellow (much darker)
-palette = 11=#92400E
-# bright blue (much darker)
-palette = 12=#1E3A8A
-# bright magenta (darker)
-palette = 13=#A21CAF
-# bright cyan (darker)
-palette = 14=#0369A1
-# bright white (much darker)
-palette = 15=#4B5563
+# black (maximum dark)
+palette = 0=#0F0F18
+# red (maximum dark)
+palette = 1=#5B1818
+# green (maximum dark - for commands)
+palette = 2=#032511
+# yellow (maximum dark)
+palette = 3=#5A2E0D
+# blue (maximum dark)
+palette = 4=#172E6B
+# magenta (maximum dark)
+palette = 5=#5D1030
+# cyan (maximum dark)
+palette = 6=#0F4A5A
+# white (maximum dark - for paths)
+palette = 7=#111827
+# bright black (maximum dark)
+palette = 8=#111827
+# bright red (maximum dark)
+palette = 9=#7F1D1D
+# bright green (maximum dark)
+palette = 10=#052E16
+# bright yellow (maximum dark)
+palette = 11=#713F12
+# bright blue (maximum dark)
+palette = 12=#172E6B
+# bright magenta (maximum dark)
+palette = 13=#831843
+# bright cyan (maximum dark)
+palette = 14=#155E75
+# bright white (maximum dark)
+palette = 15=#1F2937
