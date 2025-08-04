@@ -1,0 +1,45 @@
+# nyxvamp - radiance transparent variant
+# author: zoedsoupe <zoey.spessanha@zeetech.io>
+# A light theme optimized for transparency with high contrast
+
+# Base colors - much darker for transparency visibility
+background = #F7F7FF
+foreground = #000000
+cursor-color = #6B28D9
+cursor-text = #F7F7FF
+selection-background = #D1C4E9
+selection-foreground = #000000
+
+# Terminal palette (16 colors) - darkened for transparency
+# black (much darker)
+palette = 0=#2D2D3A
+# red (darker red)
+palette = 1=#B91C1C
+# green (darker green) 
+palette = 2=#166534
+# yellow (darker yellow)
+palette = 3=#A16207
+# blue (darker blue)
+palette = 4=#1E40AF
+# magenta (darker pink)
+palette = 5=#BE185D
+# cyan (darker cyan)
+palette = 6=#0891B2
+# white (medium gray)
+palette = 7=#6B7280
+# bright black (dark gray)
+palette = 8=#374151
+# bright red
+palette = 9=#DC2626
+# bright green
+palette = 10=#16A34A
+# bright yellow
+palette = 11=#CA8A04
+# bright blue
+palette = 12=#2563EB
+# bright magenta
+palette = 13=#DB2777
+# bright cyan
+palette = 14=#0EA5E9
+# bright white (darker than original)
+palette = 15=#9CA3AF
