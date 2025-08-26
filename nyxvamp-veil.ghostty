@@ -41,5 +41,5 @@ palette = 12=#96CDFB
 palette = 13=#F28FAD
 # bright cyan
 palette = 14=#8BD5CA
-# bright white
-palette = 15=#D9E0EE
+# bright white (operator/punctuation color - darker for better contrast) 
+palette = 15=#6E6A86

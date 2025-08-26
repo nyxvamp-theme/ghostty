@@ -41,5 +41,5 @@ palette = 12=#0284C7
 palette = 13=#BE185D
 # bright cyan (slightly lighter but still dark)
 palette = 14=#0891B2
-# bright white
-palette = 15=#D9E0EE
+# bright white (darker for better visibility)
+palette = 15=#1E1E2E
