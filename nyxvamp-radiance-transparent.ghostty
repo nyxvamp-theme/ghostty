@@ -1,45 +1,46 @@
 # nyxvamp - radiance transparent variant
 # author: zoedsoupe <zoey.spessanha@zeetech.io>
 # A light theme optimized for transparency with high contrast
+# Strictly follows Base16 color scheme standard with enhanced contrast
 
-# Base colors - much darker for transparency visibility
+# Base colors - Base16 compliant with enhanced contrast for transparency
 background = #F7F7FF
-foreground = #000000
-cursor-color = #6B28D9
+foreground = #1E1E2E
+cursor-color = #9655FF
 cursor-text = #F7F7FF
-selection-background = #D1C4E9
-selection-foreground = #000000
+selection-background = #E8D5FF
+selection-foreground = #1E1E2E
 
-# Terminal palette (16 colors) - darkened for transparency
-# black (maximum dark)
-palette = 0=#0F0F18
-# red (maximum dark)
-palette = 1=#5B1818
-# green (maximum dark - for commands)
-palette = 2=#032511
-# yellow (maximum dark)
-palette = 3=#5A2E0D
-# blue (maximum dark)
-palette = 4=#172E6B
-# magenta (maximum dark)
-palette = 5=#5D1030
-# cyan (maximum dark)
-palette = 6=#0F4A5A
-# white (maximum dark - for paths)
-palette = 7=#111827
-# bright black (maximum dark)
-palette = 8=#111827
-# bright red (maximum dark)
-palette = 9=#7F1D1D
-# bright green (maximum dark)
-palette = 10=#052E16
-# bright yellow (maximum dark)
-palette = 11=#713F12
-# bright blue (maximum dark)
-palette = 12=#172E6B
-# bright magenta (maximum dark)
-palette = 13=#831843
-# bright cyan (maximum dark)
-palette = 14=#155E75
-# bright white (maximum dark)
-palette = 15=#1F2937
+# Terminal palette (16 colors) - Base16 compliant with high contrast for transparency
+# base00 - Default Background (darken for transparency)
+palette = 0=#E8E8F0
+# base08 - Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (darken significantly)
+palette = 1=#7A0C2C
+# base0B - Strings, Inherited Class, Markup Code, Diff Inserted (darken significantly)
+palette = 2=#8B6914
+# base0A - Classes, Markup Bold, Search Text Background (darken significantly)
+palette = 3=#8B6914
+# base0D - Functions, Methods, Attribute IDs, Headings (darken significantly)
+palette = 4=#004266
+# base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed (darken significantly)
+palette = 5=#6B46C1
+# base0C - Support, Regular Expressions, Escape Characters, Markup Quotes (darken)
+palette = 6=#5AA3A0
+# base05 - Default Foreground, Caret, Delimiters, Operators (keep dark)
+palette = 7=#1E1E2E
+# base03 - Comments, Invisibles, Line Highlighting (darken slightly)
+palette = 8=#4A455F
+# base09 - Integers, Boolean, Constants, XML Attributes, Markup Link Url (darken)
+palette = 9=#9B2F08
+# base01 - Light Background (darken for visibility)
+palette = 10=#D8D8E0
+# base02 - Selection Background (darken)
+palette = 11=#C8AAEF
+# base04 - Dark Foreground (darken slightly)
+palette = 12=#4A455F
+# base06 - Light Foreground (keep dark)
+palette = 13=#1E1E2E
+# base0F - Deprecated, Opening/Closing Embedded Language Tags (darken)
+palette = 14=#C85C5E
+# base07 - Light Background (keep dark)
+palette = 15=#1E1E2E

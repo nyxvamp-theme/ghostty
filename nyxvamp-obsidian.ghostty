@@ -1,6 +1,7 @@
 # nyxvamp - obsidian variant
 # author: zoedsoupe <zoey.spessanha@zeetech.io>
 # A very dark theme with near-black background and muted colors
+# Strictly follows Base16 color scheme standard
 
 # Base colors
 background = #000A0F
@@ -10,36 +11,36 @@ cursor-text = #0E0E10
 selection-background = #2E2E30
 selection-foreground = #C0C0CE
 
-# Terminal palette (16 colors)
-# black (very dark)
-palette = 0=#0E0E10
-# red (muted red)
-palette = 1=#D78284
-# green (muted green)
+# Terminal palette (16 colors) - Base16 compliant
+# base00 - Default Background
+palette = 0=#000A0F
+# base08 - Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+palette = 1=#F28FAD
+# base0B - Strings, Inherited Class, Markup Code, Diff Inserted
 palette = 2=#8FBF8F
-# yellow (muted yellow)
-palette = 3=#D5B880
-# blue (muted blue)
-palette = 4=#7A9CCC
-# magenta (pink cursor/constants)
-palette = 5=#F28FAD
-# cyan (muted cyan)
+# base0A - Classes, Markup Bold, Search Text Background
+palette = 3=#8FBF8F
+# base0D - Functions, Methods, Attribute IDs, Headings
+palette = 4=#7FAFD7
+# base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed
+palette = 5=#F5C2E7
+# base0C - Support, Regular Expressions, Escape Characters, Markup Quotes
 palette = 6=#7BB5A8
-# white (foreground)
+# base05 - Default Foreground, Caret, Delimiters, Operators
 palette = 7=#C0C0CE
-# bright black (dark gray)
+# base03 - Comments, Invisibles, Line Highlighting
 palette = 8=#5E5A76
-# bright red
-palette = 9=#D78284
-# bright green (diff add)
-palette = 10=#86BA75
-# bright yellow (muted peach numbers)
-palette = 11=#D8A080
-# bright blue (muted blue functions)
-palette = 12=#7FAFD7
-# bright magenta
-palette = 13=#F28FAD
-# bright cyan
-palette = 14=#7BB5A8
-# bright white (operator/punctuation color)
-palette = 15=#5E5A76
+# base09 - Integers, Boolean, Constants, XML Attributes, Markup Link Url
+palette = 9=#D8A080
+# base01 - Light Background (Used for status bars)
+palette = 10=#1E1E20
+# base02 - Selection Background
+palette = 11=#2E2E30
+# base04 - Dark Foreground (Used for status bars)
+palette = 12=#5E5A76
+# base06 - Light Foreground (Not often used)
+palette = 13=#C0C0CE
+# base0F - Deprecated, Opening/Closing Embedded Language Tags
+palette = 14=#D78284
+# base07 - Light Background (Not often used)
+palette = 15=#C0C0CE

@@ -1,6 +1,7 @@
 # nyxvamp - veil variant
 # author: zoedsoupe <zoey.spessanha@zeetech.io>
 # A dark theme with purple background and lavender accents
+# Strictly follows Base16 color scheme standard
 
 # Base colors
 background = #1E1E2E
@@ -10,36 +11,36 @@ cursor-text = #1E1E2E
 selection-background = #494D64
 selection-foreground = #D9E0EE
 
-# Terminal palette (16 colors)
-# black (background)
+# Terminal palette (16 colors) - Base16 compliant
+# base00 - Default Background
 palette = 0=#1E1E2E
-# red (soft red)
-palette = 1=#E78284
-# green (green strings)
+# base08 - Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+palette = 1=#F28FAD
+# base0B - Strings, Inherited Class, Markup Code, Diff Inserted
 palette = 2=#ABE9B3
-# yellow (soft yellow)
-palette = 3=#E5C890
-# blue (blue functions)
+# base0A - Classes, Markup Bold, Search Text Background
+palette = 3=#ABE9B3
+# base0D - Functions, Methods, Attribute IDs, Headings
 palette = 4=#96CDFB
-# magenta (pink keywords)
+# base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed
 palette = 5=#F5C2E7
-# cyan (cyan hints)
+# base0C - Support, Regular Expressions, Escape Characters, Markup Quotes
 palette = 6=#8BD5CA
-# white (foreground)
+# base05 - Default Foreground, Caret, Delimiters, Operators
 palette = 7=#D9E0EE
-# bright black (comment gray)
+# base03 - Comments, Invisibles, Line Highlighting
 palette = 8=#6E6A86
-# bright red
-palette = 9=#E78284
-# bright green
-palette = 10=#ABE9B3
-# bright yellow (peach numbers)
-palette = 11=#F8BD96
-# bright blue
-palette = 12=#96CDFB
-# bright magenta (pink constants)
-palette = 13=#F28FAD
-# bright cyan
-palette = 14=#8BD5CA
-# bright white (operator/punctuation color - darker for better contrast) 
-palette = 15=#6E6A86
+# base09 - Integers, Boolean, Constants, XML Attributes, Markup Link Url
+palette = 9=#F8BD96
+# base01 - Light Background (Used for status bars)
+palette = 10=#2E2E3E
+# base02 - Selection Background
+palette = 11=#494D64
+# base04 - Dark Foreground (Used for status bars)
+palette = 12=#6E6A86
+# base06 - Light Foreground (Not often used)
+palette = 13=#D9E0EE
+# base0F - Deprecated, Opening/Closing Embedded Language Tags
+palette = 14=#E78284
+# base07 - Light Background (Not often used)
+palette = 15=#D9E0EE
