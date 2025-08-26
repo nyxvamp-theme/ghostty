@@ -11,35 +11,35 @@ selection-background = #E8D5FF
 selection-foreground = #1E1E2E
 
 # Terminal palette (16 colors)
-# black (darker gray)
-palette = 0=#5A5570
-# red (soft red)
-palette = 1=#E78284
-# green (soft green)
-palette = 2=#A6DA95
-# yellow (soft yellow)
-palette = 3=#E5C890
-# blue (soft blue)
-palette = 4=#8CAAEE
-# magenta (soft pink)
-palette = 5=#F5C2E7
-# cyan (soft cyan)
-palette = 6=#8BD5CA
+# black (darker gray for better contrast)
+palette = 0=#4A4560
+# red (much darker red for better contrast)
+palette = 1=#B91C1C
+# green (darker green for better contrast)
+palette = 2=#166534
+# yellow (darker yellow/golden rod for better contrast)
+palette = 3=#B8860B
+# blue (dark blue for much better contrast)
+palette = 4=#005F87
+# magenta (darker pink for better contrast)
+palette = 5=#9F1239
+# cyan (darker cyan for better contrast)
+palette = 6=#0E7490
 # white (light lavender)
 palette = 7=#D9E0EE
-# bright black (medium gray)
-palette = 8=#6E6A86
-# bright red
-palette = 9=#E78284
-# bright green
-palette = 10=#A6DA95
-# bright yellow
-palette = 11=#E5C890
-# bright blue
-palette = 12=#96CDFB
-# bright magenta (pink)
-palette = 13=#F28FAD
-# bright cyan
-palette = 14=#8BD5CA
+# bright black (darker medium gray)
+palette = 8=#5A5570
+# bright red (slightly lighter but still dark)
+palette = 9=#DC2626
+# bright green (slightly lighter but still dark)
+palette = 10=#15803D
+# bright yellow (slightly lighter but still dark)
+palette = 11=#CA8A04
+# bright blue (slightly lighter but still dark)
+palette = 12=#0284C7
+# bright magenta (slightly lighter but still dark pink)
+palette = 13=#BE185D
+# bright cyan (slightly lighter but still dark)
+palette = 14=#0891B2
 # bright white
 palette = 15=#D9E0EE
