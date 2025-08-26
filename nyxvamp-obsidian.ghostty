@@ -5,11 +5,11 @@
 
 # Base colors
 background = #000A0F
-foreground = #C0C0CE
+foreground = #E0E0EE
 cursor-color = #F28FAD
 cursor-text = #0E0E10
 selection-background = #2E2E30
-selection-foreground = #C0C0CE
+selection-foreground = #E0E0EE
 
 # Terminal palette (16 colors) - Base16 compliant
 # base00 - Default Background
@@ -27,7 +27,7 @@ palette = 5=#F5C2E7
 # base0C - Support, Regular Expressions, Escape Characters, Markup Quotes
 palette = 6=#7BB5A8
 # base05 - Default Foreground, Caret, Delimiters, Operators
-palette = 7=#C0C0CE
+palette = 7=#E0E0EE
 # base03 - Comments, Invisibles, Line Highlighting
 palette = 8=#5E5A76
 # base09 - Integers, Boolean, Constants, XML Attributes, Markup Link Url
@@ -39,8 +39,8 @@ palette = 11=#2E2E30
 # base04 - Dark Foreground (Used for status bars)
 palette = 12=#5E5A76
 # base06 - Light Foreground (Not often used)
-palette = 13=#C0C0CE
+palette = 13=#E0E0EE
 # base0F - Deprecated, Opening/Closing Embedded Language Tags
 palette = 14=#D78284
 # base07 - Light Background (Not often used)
-palette = 15=#C0C0CE
+palette = 15=#E0E0EE
