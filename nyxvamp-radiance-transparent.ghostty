@@ -6,7 +6,7 @@
 # Base colors - Base16 compliant with enhanced contrast for transparency
 background = #F7F7FF
 foreground = #1E1E2E
-cursor-color = #9655FF
+cursor-color = #7743CC
 cursor-text = #F7F7FF
 selection-background = #E8D5FF
 selection-foreground = #1E1E2E
@@ -23,7 +23,7 @@ palette = 3=#8B6914
 # base0D - Functions, Methods, Attribute IDs, Headings (darken significantly)
 palette = 4=#004266
 # base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed (darken significantly)
-palette = 5=#6B46C1
+palette = 5=#4657BD
 # base0C - Support, Regular Expressions, Escape Characters, Markup Quotes (darken)
 palette = 6=#5AA3A0
 # base05 - Default Foreground, Caret, Delimiters, Operators (keep dark)

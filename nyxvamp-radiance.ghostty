@@ -6,7 +6,7 @@
 # Base colors
 background = #F7F7FF
 foreground = #1E1E2E
-cursor-color = #9655FF
+cursor-color = #7743CC
 cursor-text = #F7F7FF
 selection-background = #E8D5FF
 selection-foreground = #1E1E2E
@@ -17,15 +17,15 @@ palette = 0=#F7F7FF
 # base08 - Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 palette = 1=#9F1239
 # base0B - Strings, Inherited Class, Markup Code, Diff Inserted
-palette = 2=#B8860B
+palette = 2=#825B00
 # base0A - Classes, Markup Bold, Search Text Background
-palette = 3=#B8860B
+palette = 3=#825B00
 # base0D - Functions, Methods, Attribute IDs, Headings
 palette = 4=#005F87
 # base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed
-palette = 5=#9655FF
+palette = 5=#7743CC
 # base0C - Support, Regular Expressions, Escape Characters, Markup Quotes
-palette = 6=#8BD5CA
+palette = 6=#2B7068
 # base05 - Default Foreground, Caret, Delimiters, Operators
 palette = 7=#1E1E2E
 # base03 - Comments, Invisibles, Line Highlighting
@@ -41,6 +41,6 @@ palette = 12=#5A5570
 # base06 - Light Foreground (Not often used)
 palette = 13=#1E1E2E
 # base0F - Deprecated, Opening/Closing Embedded Language Tags
-palette = 14=#E78284
+palette = 14=#A43A41
 # base07 - Light Background (Not often used)
 palette = 15=#1E1E2E

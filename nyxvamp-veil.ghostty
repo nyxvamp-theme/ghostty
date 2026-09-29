@@ -29,7 +29,7 @@ palette = 6=#8BD5CA
 # base05 - Default Foreground, Caret, Delimiters, Operators
 palette = 7=#F5F5FF
 # base03 - Comments, Invisibles, Line Highlighting
-palette = 8=#6E6A86
+palette = 8=#8C88A6
 # base09 - Integers, Boolean, Constants, XML Attributes, Markup Link Url
 palette = 9=#F8BD96
 # base01 - Light Background (Used for status bars)
@@ -37,7 +37,7 @@ palette = 10=#2E2E3E
 # base02 - Selection Background
 palette = 11=#494D64
 # base04 - Dark Foreground (Used for status bars)
-palette = 12=#6E6A86
+palette = 12=#8C88A6
 # base06 - Light Foreground (Not often used)
 palette = 13=#F5F5FF
 # base0F - Deprecated, Opening/Closing Embedded Language Tags
